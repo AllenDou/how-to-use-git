@@ -1,0 +1,20 @@
+[user]
+	name = Allen.Dou
+	email = allen.dou@hotmail.com
+[diff]
+	external = /sbin/dsl_bin/git-meld
+	tool = meld
+[merge]
+	tool = meld
+[alias]
+	diffall = /sbin/dsl_bin/git-diffall
+	st = status
+	co = checkout
+	br = branch
+	ci = commit
+[color]
+	status = auto
+	ui = auto
+	branch = auto
+[core]
+   editor = vim
